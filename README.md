@@ -1,0 +1,2 @@
+# minez
+Mining’s ng
